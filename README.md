@@ -20,7 +20,8 @@ I'm becoming a big advocate for open-source software, and with that a more begru
 I, in the end want to be the one in control of my work, and the way it's backed up (Google Drive has burnt me one too many times).
 
 ![ohxjox37bn3b1](https://github.com/squeakyvermin/SAE-Studies/assets/141753484/01f7b72e-91f1-48a7-9770-46d32380644a)
-[Curtosy of:](https://www.reddit.com/r/fuckcars/comments/13yk2kd/my_dumbest_joke_yet/)
+
+[Google BIKE, YES! Curtosy of:](https://www.reddit.com/r/fuckcars/comments/13yk2kd/my_dumbest_joke_yet/)
 
 ### So with that I have a couple of points in need of a solution:
 1. An easy and simple way to backup my plain text notes online
