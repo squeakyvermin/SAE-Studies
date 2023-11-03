@@ -10,4 +10,13 @@ This is done for:
   - If a platform for note taking suddenly becomes redundant, I still have complete access to everything I've written down
   - This also has the ability to easily (more or less) transfer to another app or platform that supports Markdown Syntax
 
- 
+Now that we understand the main reason why I use Markdown, we can bounce off that and look at why Github is the next logical step.
+I'm becoming a big advocate for open-source software, and with that a more begrudging outlook on paying a company for things like cross-platform syncing.
+I, in the end want to be the one in control of my work, and the way it's backed up (Google Drive has burnt me one too many times).
+
+So with that I have a couple of points in need of a solution:
+1. An easy and simple way to backup my plain text notes online
+2. Have that online backup accessable anywhere
+3. Have the notes easily readable online
+4. Have an easy way of sharing notes to others / collaborators
+
