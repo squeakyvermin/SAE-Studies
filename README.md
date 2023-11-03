@@ -1,6 +1,8 @@
 # SAE Studies
 Cody's SAE research &amp; study notes
 
+![SAE Creative Media Institute](https://www.energy-groove.com/wp-content/uploads/2022/02/SAE-EnergyGroove-Website-LogoIcon.png)
+
 ## Disclaimer:
 This is me still testing it out / a work in progress 
 
