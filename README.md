@@ -19,6 +19,8 @@ Now that we understand the main reason why I use Markdown, we can bounce off tha
 I'm becoming a big advocate for open-source software, and with that a more begrudging outlook on paying a company for things like cross-platform syncing.
 I, in the end want to be the one in control of my work, and the way it's backed up (Google Drive has burnt me one too many times).
 
+![Google Bike PLS](https://i.redd.it/ohxjox37bn3b1.jpg)
+
 ### So with that I have a couple of points in need of a solution:
 1. An easy and simple way to backup my plain text notes online
 2. Have that online backup accessable anywhere
