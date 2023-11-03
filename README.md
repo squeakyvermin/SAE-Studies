@@ -1,7 +1,7 @@
 # SAE Studies
 Cody's SAE research &amp; study notes
 
-![SAE Creative Media Institute](https://cdn.ischoolconnect.com/logo/11333.png)
+![SAE NOM](https://github.com/squeakyvermin/SAE-Studies/assets/141753484/e75482c1-d44e-4f0c-8384-bd31883c5188)
 
 ## Disclaimer:
 This is me still testing it out / a work in progress 
