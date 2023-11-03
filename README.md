@@ -31,7 +31,8 @@ I, in the end want to be the one in control of my work, and the way it's backed 
 
 ## What's Included
 With the secondary goal of this being an easy way to collate all of my notes / work into one place & sharing it with facilitators / peer, it should be stated that: 
-#### Please Read the LICENSE (to be written lol) in regards to using any of my creative work outside of SAE or student / teaching purposes
+
+***Please Read the LICENSE (to be written lol) in regards to using any of my creative work outside of SAE or student / teaching purposes***
 
 ## Goals & Tasks for GIIIIT (this project... thing)
 - [ ] Collect all *relevant* notes and have it backed up to this repo
